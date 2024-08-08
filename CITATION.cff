@@ -1,23 +1,60 @@
-# This CITATION.cff file was generated with FAIRshare.
-# Visit https://fairdataihub.org/fairshare to learn more!
-
-abstract: test
+cff-version: "1.2.0"
 authors:
-- affiliation: '@fairdataihub'
-  email: ssoundarajan@calmi2.org
-  family-names: Soundarajan
+- family-names: Marroquin
+  given-names: Christopher
+  orcid: "https://orcid.org/0000-0002-3399-1731"
+- family-names: Clark
+  given-names: Jacob
+  orcid: "https://orcid.org/0000-0001-8134-6481"
+- family-names: Portillo
+  given-names: Dorian
+  orcid: "https://orcid.org/0000-0002-4306-4464"
+- family-names: Soundarajan
   given-names: Sanjay
-cff-version: 1.2.0
-date-released: '2022-03-14T18:56:52.630Z'
-identifiers:
-- description: DOI for this software's record on Zenodo
-  type: doi
-  value: 10.5072/zenodo.1218065
-keywords:
-- COVID-19
-- Machine Learning
-license: MIT
-message: If you use this software, please cite it as below.
-repository-code: https://github.com/megasanjay/test1
-title: test
-type: software
+  orcid: "https://orcid.org/0000-0003-2829-8032"
+- family-names: Ngo
+  given-names: Tram
+- family-names: Patel
+  given-names: Bhavesh
+  orcid: "https://orcid.org/0000-0002-0307-262X"
+contact:
+- family-names: Patel
+  given-names: Bhavesh
+  orcid: "https://orcid.org/0000-0002-0307-262X"
+doi: 10.5281/zenodo.12774826
+message: If you use this software, please cite our article in the
+  Journal of Open Source Software.
+preferred-citation:
+  authors:
+  - family-names: Marroquin
+    given-names: Christopher
+    orcid: "https://orcid.org/0000-0002-3399-1731"
+  - family-names: Clark
+    given-names: Jacob
+    orcid: "https://orcid.org/0000-0001-8134-6481"
+  - family-names: Portillo
+    given-names: Dorian
+    orcid: "https://orcid.org/0000-0002-4306-4464"
+  - family-names: Soundarajan
+    given-names: Sanjay
+    orcid: "https://orcid.org/0000-0003-2829-8032"
+  - family-names: Ngo
+    given-names: Tram
+  - family-names: Patel
+    given-names: Bhavesh
+    orcid: "https://orcid.org/0000-0002-0307-262X"
+  date-published: 2024-08-06
+  doi: 10.21105/joss.06140
+  issn: 2475-9066
+  issue: 100
+  journal: Journal of Open Source Software
+  publisher:
+    name: Open Journals
+  start: 6140
+  title: "SODA: Software to Support the Curation and Sharing of FAIR
+    Autonomic Nervous System Data"
+  type: article
+  url: "https://joss.theoj.org/papers/10.21105/joss.06140"
+  volume: 9
+title: "SODA: Software to Support the Curation and Sharing of FAIR
+  Autonomic Nervous System Data"
