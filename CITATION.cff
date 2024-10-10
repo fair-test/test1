@@ -1,49 +1,50 @@
-cff-version: "1.2.0"
+cff-version: 1.2.0
 authors:
-- family-names: Marroquin
-  given-names: Christopher
-  orcid: "https://orcid.org/0000-0002-3399-1731"
-- family-names: Clark
-  given-names: Jacob
-  orcid: "https://orcid.org/0000-0001-8134-6481"
-- family-names: Portillo
-  given-names: Dorian
-  orcid: "https://orcid.org/0000-0002-4306-4464"
-- family-names: Soundarajan
-  given-names: Sanjay
-  orcid: "https://orcid.org/0000-0003-2829-8032"
-- family-names: Ngo
-  given-names: Tram
-- family-names: Patel
-  given-names: Bhavesh
-  orcid: "https://orcid.org/0000-0002-0307-262X"
-contact:
-- family-names: Patel
-  given-names: Bhavesh
-  orcid: "https://orcid.org/0000-0002-0307-262X"
-doi: 10.5281/zenodo.12774826
-message: If you use this software, please cite our article in the
-  Journal of Open Source Software.
-preferred-citation:
-  authors:
   - family-names: Marroquin
     given-names: Christopher
-    orcid: "https://orcid.org/0000-0002-3399-1731"
+    orcid: https://orcid.org/0000-0002-3399-1731
   - family-names: Clark
     given-names: Jacob
-    orcid: "https://orcid.org/0000-0001-8134-6481"
+    orcid: https://orcid.org/0000-0001-8134-6481
   - family-names: Portillo
     given-names: Dorian
-    orcid: "https://orcid.org/0000-0002-4306-4464"
+    orcid: https://orcid.org/0000-0002-4306-4464
   - family-names: Soundarajan
     given-names: Sanjay
-    orcid: "https://orcid.org/0000-0003-2829-8032"
+    orcid: https://orcid.org/0000-0003-2829-8032
   - family-names: Ngo
     given-names: Tram
   - family-names: Patel
     given-names: Bhavesh
-    orcid: "https://orcid.org/0000-0002-0307-262X"
-  date-published: 2024-08-06
+    orcid: https://orcid.org/0000-0002-0307-262X
+contact:
+  - family-names: Patel
+    given-names: Bhavesh
+    orcid: https://orcid.org/0000-0002-0307-262X
+doi: 10.5281/zenodo.116319
+message: >-
+  If you use this software, please cite our article in the Journal of Open
+  Source Software.
+preferred-citation:
+  authors:
+    - family-names: Marroquin
+      given-names: Christopher
+      orcid: https://orcid.org/0000-0002-3399-1731
+    - family-names: Clark
+      given-names: Jacob
+      orcid: https://orcid.org/0000-0001-8134-6481
+    - family-names: Portillo
+      given-names: Dorian
+      orcid: https://orcid.org/0000-0002-4306-4464
+    - family-names: Soundarajan
+      given-names: Sanjay
+      orcid: https://orcid.org/0000-0003-2829-8032
+    - family-names: Ngo
+      given-names: Tram
+    - family-names: Patel
+      given-names: Bhavesh
+      orcid: https://orcid.org/0000-0002-0307-262X
+  date-published: 2024-08-06T00:00:00.000Z
   doi: 10.21105/joss.06140
   issn: 2475-9066
   issue: 100
@@ -51,10 +52,14 @@ preferred-citation:
   publisher:
     name: Open Journals
   start: 6140
-  title: "SODA: Software to Support the Curation and Sharing of FAIR
-    Autonomic Nervous System Data"
+  title: >-
+    SODA: Software to Support the Curation and Sharing of FAIR Autonomic Nervous
+    System Data
   type: article
-  url: "https://joss.theoj.org/papers/10.21105/joss.06140"
+  url: https://joss.theoj.org/papers/10.21105/joss.06140
   volume: 9
-title: "SODA: Software to Support the Curation and Sharing of FAIR
-  Autonomic Nervous System Data"
+title: >-
+  SODA: Software to Support the Curation and Sharing of FAIR Autonomic Nervous
+  System Data
+date-released: '2024-10-10'
+version: v1
