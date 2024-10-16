@@ -4,10 +4,10 @@
   "license": "https://spdx.org/licenses/MIT",
   "codeRepository": "https://github.com/megasanjay/test1",
   "dateCreated": "2022-03-14T18:41:29Z",
-  "dateModified": "2024-10-10",
+  "dateModified": "2024-10-16",
   "issueTracker": "https://github.com/megasanjay/test1/issues",
   "name": "test",
-  "identifier": "10.5281/zenodo.116319",
+  "identifier": "10.5281/zenodo.118647",
   "description": "test",
   "funder": {
     "@type": "Organization",
@@ -32,6 +32,6 @@
       }
     }
   ],
-  "version": "v1",
+  "version": "v2",
   "datePublished": "2024-10-10"
 }
