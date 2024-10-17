@@ -21,7 +21,7 @@ contact:
   - family-names: Patel
     given-names: Bhavesh
     orcid: https://orcid.org/0000-0002-0307-262X
-doi: 10.5281/zenodo.118729
+doi: 10.5281/zenodo.118732
 message: >-
   If you use this software, please cite our article in the Journal of Open
   Source Software.
@@ -62,5 +62,5 @@ title: >-
   SODA: Software to Support the Curation and Sharing of FAIR Autonomic Nervous
   System Data
 date-released: '2024-10-17'
-version: v6
+version: v5.0.6
 license: MIT
