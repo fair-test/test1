@@ -7,7 +7,7 @@
   "dateModified": "2024-10-17",
   "issueTracker": "https://github.com/megasanjay/test1/issues",
   "name": "test",
-  "identifier": "10.5281/zenodo.118654",
+  "identifier": "10.5281/zenodo.118725",
   "description": "test",
   "funder": {
     "@type": "Organization",
@@ -32,6 +32,6 @@
       }
     }
   ],
-  "version": "v3",
+  "version": "v6",
   "datePublished": "2024-10-10"
 }
