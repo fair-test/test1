@@ -8,7 +8,7 @@
   "issueTracker": "https://github.com/megasanjay/test1/issues",
   "name": "test",
   "identifier": "10.5281/zenodo.118732",
-  "description": "test",
+  "description": "test ddescription 2",
   "funder": {
     "@type": "Organization",
     "@name": "National Institutes of Health (NIH)"
