@@ -1,37 +1,63 @@
 {
-  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "SoftwareSourceCode",
-  "license": "https://spdx.org/licenses/MIT",
-  "codeRepository": "https://github.com/megasanjay/test1",
-  "dateCreated": "2022-03-14T18:41:29Z",
-  "dateModified": "2024-10-17",
-  "issueTracker": "https://github.com/megasanjay/test1/issues",
   "name": "test",
-  "identifier": "10.5281/zenodo.118732",
-  "description": "test ddescription 2",
-  "funder": {
-    "@type": "Organization",
-    "@name": "National Institutes of Health (NIH)"
-  },
-  "keywords": [
-    "COVID-19",
-    "Machine Learning"
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "familyName": "Marroquin",
+      "id": "_:author_1",
+      "givenName": "Christopher",
+      "type": "Person"
+    },
+    {
+      "familyName": "Clark",
+      "id": "_:author_2",
+      "givenName": "Jacob",
+      "type": "Person"
+    },
+    {
+      "familyName": "Portillo",
+      "id": "_:author_3",
+      "givenName": "Dorian",
+      "type": "Person"
+    },
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub (@fairdataihub)",
+        "type": "Organization"
+      },
+      "email": "ssoundarajan@calmi2.org",
+      "familyName": "Soundarajan",
+      "id": "_:author_4",
+      "givenName": "Sanjay",
+      "type": "Person"
+    },
+    {
+      "familyName": "Ngo",
+      "id": "_:author_5",
+      "givenName": "Tram",
+      "type": "Person"
+    },
+    {
+      "familyName": "Patel",
+      "id": "_:author_6",
+      "givenName": "Bhavesh",
+      "type": "Person"
+    }
   ],
+  "codeRepository": "https://github.com/megasanjay/test1",
+  "dateCreated": "2022-03-14",
+  "dateModified": "2024-10-17",
+  "datePublished": "2024-10-09",
+  "description": "test ddescription 2",
+  "identifier": "10.5281/zenodo.118732",
+  "issueTracker": "https://github.com/fair-test/test1/issues",
+  "keywords": [
+    "fdsadf"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
   "programmingLanguage": [
     "Ada"
   ],
-  "author": [
-    {
-      "@type": "Person",
-      "givenName": "Sanjay",
-      "familyName": "Soundarajan",
-      "email": "ssoundarajan@calmi2.org",
-      "affiliation": {
-        "@type": "Organization",
-        "name": "@fairdataihub"
-      }
-    }
-  ],
   "version": "v5.0.6",
-  "datePublished": "2024-10-10"
+  "type": "SoftwareSourceCode"
 }
